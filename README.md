@@ -1,6 +1,6 @@
 # stationarywallah
 
-A new Flutter project.
+A stationary delivery app.
 
 ## Getting Started
 
